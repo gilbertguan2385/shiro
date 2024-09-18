@@ -112,7 +112,7 @@
         <spring.version>5.3.31</spring.version>
         <spring-boot.version>2.7.18</spring-boot.version>
         <guice.version>4.2.3</guice.version>
-        <jaxrs.api.version>2.1.6</jaxrs.api.version>
+        <jaxrs.api.version>3.0.0</jaxrs.api.version>
         <htmlunit.version>3.8.0</htmlunit.version>
         <bouncycastle.version>1.77</bouncycastle.version>
 
